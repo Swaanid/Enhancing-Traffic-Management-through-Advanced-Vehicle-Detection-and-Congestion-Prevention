@@ -1,0 +1,14 @@
+
+
+path: "C:/Users/swani/Downloads/Traffic Dataset" # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path') 
+
+# Number of classes
+nc:  5
+names: [ "Car",  "Two Wheeler", "Auto","Bus","Truck"]
+
+
+
+
+ 
